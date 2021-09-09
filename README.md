@@ -30,6 +30,6 @@ The project helps in measuring the number of people traversing a certain passage
 * Centroid Tracker
 * Trackable Object
 
-## Pre-trained Caffe Deep Learnign Models
+## Pre-trained Caffe Deep Learning Models
 * MobileNet SSD (Single Shot Detector)
 
